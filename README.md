@@ -7,8 +7,8 @@ It's a campground rating app, where users can create their own campgrounds, view
 
 
 ## Technologies used:
--NodeJS
+- NodeJS
 
--ExpressJS Framework
+- ExpressJS Framework
 
--MongoDB (Database)
+- MongoDB (Database)
